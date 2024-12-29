@@ -5,3 +5,8 @@
 - 📫 Write to me at grinoe123@gmail.com
 - 😄 Pronouns: She/her 
 - ⚡ Fun fact: I love skating and hiking. 
+
+#### Skills
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks:** React, Django, Flask
+- **Tools:** Git, VSCode
