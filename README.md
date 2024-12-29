@@ -7,6 +7,6 @@
 - ⚡ Fun fact: I love skating and hiking. 
 
 #### Skills
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** React, Django, Flask
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks:** React, Chakra UI
 - **Tools:** Git, VSCode
